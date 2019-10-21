@@ -8,6 +8,7 @@ This program takes the image path as input and displays the desired output, the 
 When the program is run:
 It will display:
 >>Enter the input path: 
+
 After entering the input path, you get:
 1. List of rough coordinates of location of each of the red plane(on Terminal)
 2. Number of red arrow planes(on Terminal)
